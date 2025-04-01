@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 <h3 align="center">A teenager who is trying to achive something</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU0ZHR3ZWQ1cGw2emc1ZDl5cTNtMW5pYWU4ejkyamt4ZXgyeTYzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-singh-307&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-singh-307" /> </p>
 
